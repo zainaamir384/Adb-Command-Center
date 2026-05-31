@@ -58,5 +58,7 @@ The workflow separates custom toolsets across granular categorical panels:
 ### Method B: Self-Contained Portable Build 🧳
 For offline environments or portable execution arrays, use standard framework compilation commands inside the project root folder:
 
+Developed by Zain
+
 ```powershell
 dotnet publish AdbCommandCenter\AdbCommandCenter.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfContained=true -o .\publish\
