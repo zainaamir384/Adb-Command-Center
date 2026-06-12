@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Framework-WPF%20%7C%20.NET%208.0-indigo?style=for-the-badge&logo=.net" alt="Framework"/>
   <img src="https://img.shields.io/badge/License-Apache%202.0-green?style=for-the-badge" alt="License"/>
 </p>
+Preview: <img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/13ede0ac-c09c-4b5a-a758-f1a45d20647a" />
 
 <p align="center">
   <strong>A modern Windows desktop interface for Android Debug Bridge (ADB) and Fastboot.</strong>
